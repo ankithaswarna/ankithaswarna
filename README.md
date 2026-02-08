@@ -62,10 +62,4 @@ Projects cover:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swarna%20Ankitha-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankithaswarna-data)  
 [![Email](https://img.shields.io/badge/Email-ankithaswarna123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankithaswarna123@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-![Swarna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankithaswarna&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankithaswarna&layout=compact&hide_border=true)
 
